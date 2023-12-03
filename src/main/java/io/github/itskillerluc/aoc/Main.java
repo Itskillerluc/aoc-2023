@@ -20,6 +20,7 @@ public class Main {
         List<Challenge> challenges = new ArrayList<>();
         challenges.add(new Day1());
         challenges.add(new Day2());
+        challenges.add(new Day3());
         return challenges;
     }
 }
