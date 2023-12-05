@@ -22,6 +22,7 @@ public class Main {
         challenges.add(new Day2());
         challenges.add(new Day3());
         challenges.add(new Day4());
+        challenges.add(new Day5());
         return challenges;
     }
 }
